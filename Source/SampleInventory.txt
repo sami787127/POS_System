@@ -1,0 +1,63 @@
+1CRGADWIDE,Gilbarco Advantage Wide-frame. (42"w x 20"h) - (i.e. B01; B03; B05; B07; B79; B7C; B85; B87; etc.),7100,3
+1CRGADNAR,Gilbarco Advantage Narrow-frame. (30"w x 20"h) - (i.e. B78; B21; B31 etc.),7100,3
+1CRGMPDHI,Gilbarco MPD High-Profile Door. (41"w x 30"h) - (i.e. AK1210; AK1220; AK1230; AN1220; etc.),7100,3
+1CRGMPDLO,Gilbarco MPD Low-Profile Door. (41"w x 24"h) - (i.e. AL1210; AL1220; AL1230; AR1220; AR1230; etc.),7100,6
+1CRGENC,Gilbarco Encore. (36-1/2"w x 24-1/2"h) - (i.e. NA; NC; NG; NN; etc.),7100,0
+1CRWDL,Wayne DL; 21" high. (41-3/4"w x 21"h).,7100,5
+1CRWDL16,Wayne Old-style DL; 16" high lower door. (41-3/4"w x 16"h). Similar to; but different than; 16"h Vista models.,7100,3
+1CRWOVA,Wayne Ovation. (43 -7/16"w x 22-7/16"h).,7586,2
+1CRWVISTA,Wayne Vista 16" lower door. (41-3/4"w x 16"h). Not for Old-style DL models.,7100,3
+1CRWV580,Wayne Vista 580. Narrow Frame. 16" high lower door. (29"w x 16"h),7100,3
+1CRWV580FH,Wayne Vista 1-hose. Narrow frame. Full-height. No Totalizers. (29"w x 37-1/4"h),7825,10
+1CRWV1,Wayne Vista 1-hose. Full-height. No Totalizers. (42"w x 37-1/4"h).,7825,5
+1CRWV1TL,Wayne Vista 1-hose. Full-height. Totalizer Slots left & center. (42"w x 37-1/4"h),7825,5
+1CRWV1TC,Wayne Vista 1-hose. Full-height. Totalizer Slots left & right of center. (42"w x 37-1/4"h),7825,25
+1CRWV1P,Wayne Vista 1-hose. Full-height. No Totalizers. Pocket-pull handle at bottom. (42"w x 37-1/4"h),7825,5
+1CRWV2,Wayne Vista 2-hose. Full-height. No Totalizers. (42"w x 37-1/4"h),7825,3
+1CRWV2TC,Wayne Vista 2-hose. Full-height. Totalizer Slot right of center. (42"w x 37-1/4"h),7825,3
+1CRWV2P,Wayne Vista 2-hose. Full-height. No Totalizers. Pocket-pull handle at bottom. (42"w x 37-1/4"h),7825,3
+1CRWV2W4,Wayne Vista 2-hose. Full-height. Wide Nozzle Config w/ 4" Inset. No Totalizers. (42"w x 37-1/4"h),7825,3
+1CRWV2W2TC,Wayne Vista 2-hose. Full-height. Wide Nozzle Config w/ 2" Inset. Totalizer Slots left & right of center. (42"w x 37-1/4"h),7825,20
+1CRWV2W2,Wayne Vista 2-hose. Full-height. Wide Nozzle Config w/ 2" Inset. (42"w x 37-1/4"h),7825,20
+1CRWV3,Wayne Vista 3-hose. Full-height. No Totalizers. (42"w x 37-1/4"h),7825,20
+1C3P,3-product Price Sign; 46"w x 72.5"h; Metal. (Hardware sold separately),33119,10
+1C6P,6-product Price Sign; 46"w x 72.5"h; Metal. (Hardware sold separately),41115,10
+1C3MP,3-product Mini Price Sign; 38.25"w x 50.25"h; Metal. (Hardware sold separately),30566,10
+1C6MP,6-product Mini Price Sign; 38.25"w x 50.25"h; Metal. (Hardware sold separately),28487,10
+1CDM,1-product Mini Diesel Price Sign; 38.25"w x 50.25"h; Metal. (Hardware sold separately),25240,10
+14FT2,Number Changer (8'-24' Pole),11110,20
+1CPOLE,Pole-mounting kit for IR Price Signs (all sizes),3253,1
+1CGROUND,Ground-mount kit for IR Price Signs (all sizes),6487,9
+1CHD-STND,Curb-feet kit for IR 46"w x 72.5"h Price Signs,7594,5
+1CCURB,Curb-feet kit for IR 38.25"w x 50.25"h Mini Price Signs,6880,10
+1CADAPT,Curb-feet adaptor for "Legacy" 46"w x 72.5"h Price Signs,3270,10
+1CADAPTM,Curb-feet adaptor for "Legacy" 38.25"w x 50.25"h Mini Price Signs,1635,10
+1C3P-DBR,Diesel Bottomer for #1C3P; 3-product Price Sign,4900,10
+1C6P-DBR,Diesel Bottomer for #1C6P; 6-product Price Sign,2000,10
+1C3MP-DBR,Diesel Bottomer for #1C3MP; 3-product Mini Sign,8900,10
+1C6MP-DBR,Diesel Bottomer for #1C6MP; 6-product Mini Sign,2800,10
+1CGFLAG,Pump ID Flags; Gasoline; w/ Printed Numeral.,1425,10
+1CDFLAG,Pump ID Flags; Diesel; w/ Printed Numeral.,1652,10
+1CR-SSGAD,Gilbarco Advantage SideSkins. 2 inner & 2 outer panels. (Gilbarco). IR Silver finish.,15859,20
+1CR-SSGMPD,Gilbarco MPD SideSkins. 2 inner & 2 outer panels. IR Silver finish.,15859,20
+1CR-SSGENC,Gilbarco Encore SideSkins. 2 inner & 2 outer panels. IR Silver finish.,15859,20
+1CR-SSWVISTA,Wayne Vista SideSkins w/ 45 deg. fold. 2 inner & 2 outer panels. IR Silver finish. (Refer to drawings).,15859,20
+1CR-SSWVISTA-B,Wayne Vista SideSkins w/ 90 deg. fold. 2 inner & 2 outer panels. IR Silver finish. (Refer to drawings).,15859,20
+1CEXIT1120,Exit Sign,19812,30
+1CENT1120,Enter Sign,18731,30
+1CO24HR2020,Open 24 Hours/Enter Sign,14184,35
+1CAW2020,Air/Water Sign,16246,20
+1CCWAR2236,Car Wash w/ Arrow Sign,19863,10
+1CCWST2764,Friction Car Wash Instructions w/ Stop Sign,36734,10
+1CCWTF2764,Touch Free Car Wash Instructions w/ Stop Sign,28404,10
+1CWTFW,Touch Free Car Wash Instructions; Wall-mount,12914,20
+1CEM702020,Clearance 7' Sign with Arrow,30938,20
+1CHARERM,ADA Restroom - Men/Women,1508,20
+1CHARERMHAND,ADA Restroom; Men/Women w/ Accessibility symbol,1684,30
+1CUNISEX,ADA Restroom Unisex (8"H x 7"W),1434,20
+1CUNISEXHAND,ADA Restroom; Unisex w/ Accessibility symbol,1557,20
+1CTITLE24RM,Restroom Men/Women Set (CA Required),3474,20
+1CUNISEXT24,Unisex Restroom (CA Required),2241,20
+1CPKGVANAC,ADA Parking/Van Access,1549,20
+1CPKGONLY,ADA Parking Only,2251,20
+1CRFH1824P,Reserved for Handicapped; Tow-Away Sign,2928,20
